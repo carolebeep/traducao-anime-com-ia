@@ -1,6 +1,6 @@
 > 🚧 **Projeto em andamento:** Agosto/2026. Fluxo executado até o **episódio 60**. Os episódios seguintes ainda serão baixados, verificados (`os.path.exists()`) e traduzidos com o Whisper (GPU T4) em novos lotes.
 
-Por que este projeto existe: Este fluxo nasceu do pedido de um amigo que queria terminar de assistir a um anime da adolescência, disponível apenas no áudio original em Japonês. Como meu trabalho de legendagem atua no par Inglês-Português, testei uma solução com IA para gerar legendas em inglês e tornar os episódios acessíveis a ele. :!: Nota: legendas geradas por IA facilitam o acompanhamento, mas não substituem a precisão de um nativo ou tradutor experiente em japonês.
+Por que este projeto existe: Este fluxo nasceu do pedido de um amigo que queria terminar de assistir a um anime da adolescência, disponível apenas no áudio original em Japonês. Como meu trabalho de legendagem atua no par Inglês-Português, testei uma solução com IA para gerar legendas em Inglês e tornar os episódios acessíveis a ele. :!: Nota: legendas geradas por IA facilitam o acompanhamento, mas não substituem a precisão de um nativo ou tradutor experiente em japonês.
 
 
 # 🎬 Pipeline de Transcrição e Tradução de Animes
